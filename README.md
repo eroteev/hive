@@ -1,2 +1,1 @@
-# hive
-Beehive Management App
+Beehive management application
